@@ -1,0 +1,351 @@
+﻿score,runs_scored,balls_faced,strike_rate,fours,sixes,opposition,ground,date,odi_number
+0,0,1,0,0,0,v Bangladesh,Chattogram,23/12/2004,ODI # 2199
+12,12,11,109.09,2,0,v Bangladesh,Dhaka,26/12/2004,ODI # 2201
+7*,7,2,350,0,1,v Bangladesh,Dhaka,27/12/2004,ODI # 2202
+3,3,7,42.85,0,0,v Pakistan,Kochi,02/04/2005,ODI # 2235
+148,148,123,120.32,15,4,v Pakistan,Visakhapatnam,05/04/2005,ODI # 2236
+28,28,24,116.66,5,0,v Pakistan,Jamshedpur,09/04/2005,ODI # 2237
+47,47,64,73.43,4,1,v Pakistan,Ahmedabad,12/04/2005,ODI # 2238
+11,11,16,68.75,1,0,v Pakistan,Kanpur,15/04/2005,ODI # 2239
+24,24,38,63.15,2,0,v Pakistan,Delhi,17/04/2005,ODI # 2240
+2,2,7,28.57,0,0,v Sri Lanka,Dambulla,30/07/2005,ODI # 2262
+15*,15,11,136.36,1,1,v West Indies,Dambulla,31/07/2005,ODI # 2263
+20,20,27,74.07,1,0,v Sri Lanka,Dambulla,03/08/2005,ODI # 2265
+28*,28,13,215.38,1,2,v West Indies,Colombo (RPS),07/08/2005,ODI # 2267
+7,7,11,63.63,0,0,v Sri Lanka,Colombo (RPS),09/08/2005,ODI # 2268
+2,2,5,40,0,0,v New Zealand,Bulawayo,26/08/2005,ODI # 2273
+56,56,46,121.73,2,4,v Zimbabwe,Harare,29/08/2005,ODI # 2274
+37*,37,27,137.03,3,2,v New Zealand,Harare,02/09/2005,ODI # 2278
+67*,67,63,106.34,1,3,v Zimbabwe,Harare,04/09/2005,ODI # 2280
+11,11,16,68.75,1,0,v New Zealand,Harare,06/09/2005,ODI # 2281
+38,38,28,135.71,3,2,v Sri Lanka,Nagpur,25/10/2005,ODI # 2286
+DNB,-,-,-,-,-,v Sri Lanka,Mohali,28/10/2005,ODI # 2287
+183*,183,145,126.2,15,10,v Sri Lanka,Jaipur,31/10/2005,ODI # 2290
+45*,45,43,104.65,1,2,v Sri Lanka,Pune,03/11/2005,ODI # 2291
+0,0,1,0,0,0,v Sri Lanka,Ahmedabad,06/11/2005,ODI # 2294
+DNB,-,-,-,-,-,v Sri Lanka,Rajkot,09/11/2005,ODI # 2295
+80,80,73,109.58,9,3,v Sri Lanka,Vadodara,12/11/2005,ODI # 2296
+17,17,28,60.71,1,0,v South Africa,Hyderabad (Deccan),16/11/2005,ODI # 2297
+DNB,-,-,-,-,-,v South Africa,Bengaluru,19/11/2005,ODI # 2298
+14,14,26,53.84,0,0,v South Africa,Kolkata,25/11/2005,ODI # 2299
+12,12,26,46.15,1,0,v South Africa,Mumbai,28/11/2005,ODI # 2300
+68,68,53,128.3,11,1,v Pakistan,Peshawar,06/02/2006,ODI # 2324
+DNB,-,-,-,-,-,v Pakistan,Rawalpindi,11/02/2006,ODI # 2327
+72*,72,46,156.52,13,0,v Pakistan,Lahore,13/02/2006,ODI # 2329
+2*,2,5,40,0,0,v Pakistan,Multan,16/02/2006,ODI # 2331
+77*,77,56,137.5,6,4,v Pakistan,Karachi,19/02/2006,ODI # 2333
+20,20,28,71.42,2,0,v England,Delhi,28/03/2006,ODI # 2357
+38,38,55,69.09,2,0,v England,Faridabad,31/03/2006,ODI # 2358
+13*,13,6,216.66,1,1,v England,Margao,03/04/2006,ODI # 2359
+10*,10,13,76.92,1,0,v England,Kochi,06/04/2006,ODI # 2360
+96,96,106,90.56,10,3,v England,Jamshedpur,12/04/2006,ODI # 2361
+3,3,10,30,0,0,v Pakistan,Abu Dhabi,18/04/2006,ODI # 2363
+59,59,72,81.94,5,0,v Pakistan,Abu Dhabi,19/04/2006,ODI # 2364
+18,18,11,163.63,2,1,v West Indies,Kingston,18/05/2006,ODI # 2377
+2,2,7,28.57,0,0,v West Indies,Kingston,20/05/2006,ODI # 2379
+15,15,26,57.69,1,0,v West Indies,Basseterre,23/05/2006,ODI # 2380
+46*,46,58,79.31,6,0,v West Indies,Port of Spain,26/05/2006,ODI # 2381
+14,14,19,73.68,2,0,v West Indies,Port of Spain,28/05/2006,ODI # 2382
+DNB,-,-,-,-,-,v Sri Lanka,Colombo (SSC),18/08/2006,ODI # 2405
+2,2,10,20,0,0,v West Indies,Kuala Lumpur,14/09/2006,ODI # 2414
+DNB,-,-,-,-,-,v Australia,Kuala Lumpur,16/09/2006,ODI # 2416
+18,18,13,138.46,4,0,v West Indies,Kuala Lumpur,20/09/2006,ODI # 2419
+23,23,34,67.64,0,1,v Australia,Kuala Lumpur,22/09/2006,ODI # 2421
+7,7,22,31.81,0,0,v England,Jaipur,15/10/2006,ODI # 2429
+51,51,65,78.46,1,2,v West Indies,Ahmedabad,26/10/2006,ODI # 2437
+28,28,23,121.73,2,0,v Australia,Mohali,29/10/2006,ODI # 2440
+14,14,27,51.85,3,0,v South Africa,Durban,22/11/2006,ODI # 2447
+55,55,48,114.58,3,4,v South Africa,Cape Town,26/11/2006,ODI # 2449
+26,26,21,123.8,4,1,v South Africa,Port Elizabeth,29/11/2006,ODI # 2452
+44,44,49,89.79,2,2,v South Africa,Centurion,03/12/2006,ODI # 2458
+62*,62,42,147.61,3,4,v West Indies,Nagpur,21/01/2007,ODI # 2480
+6,6,19,31.57,0,0,v West Indies,Cuttack,24/01/2007,ODI # 2485
+40*,40,20,200,1,3,v West Indies,Vadodara,31/01/2007,ODI # 2493
+TDNB,-,-,-,-,-,v Sri Lanka,Kolkata,08/02/2007,ODI # 2514
+48,48,68,70.58,1,0,v Sri Lanka,Rajkot,11/02/2007,ODI # 2520
+67*,67,74,90.54,4,0,v Sri Lanka,Margao,14/02/2007,ODI # 2522
+DNB,-,-,-,-,-,v Sri Lanka,Visakhapatnam,17/02/2007,ODI # 2525
+0,0,3,0,0,0,v Bangladesh,Port of Spain,17/03/2007,ODI # 2538
+29,29,25,116,2,1,v Bermuda,Port of Spain,19/03/2007,ODI # 2542
+0,0,1,0,0,0,v Sri Lanka,Port of Spain,23/03/2007,ODI # 2550
+91*,91,106,85.84,7,0,v Bangladesh,Dhaka,10/05/2007,ODI # 2582
+36,36,54,66.66,4,0,v Bangladesh,Dhaka,12/05/2007,ODI # 2583
+2,2,4,50,0,0,v Africa XI,Bengaluru,06/06/2007,ODI # 2587
+33,33,38,86.84,2,2,v Africa XI,Chennai,09/06/2007,ODI # 2588
+139*,139,97,143.29,15,5,v Africa XI,Chennai,10/06/2007,ODI # 2589
+0,0,4,0,0,0,v South Africa,Belfast,29/06/2007,ODI # 2593
+14*,14,11,127.27,2,0,v South Africa,Belfast,01/07/2007,ODI # 2595
+DNB,-,-,-,-,-,v Scotland,Glasgow,16/08/2007,ODI # 2608
+19,19,60,31.66,1,0,v England,Southampton,21/08/2007,ODI # 2611
+21,21,18,116.66,3,0,v England,Bristol,24/08/2007,ODI # 2613
+13,13,20,65,0,0,v England,Birmingham,27/08/2007,ODI # 2616
+13,13,18,72.22,1,0,v England,Manchester,30/08/2007,ODI # 2617
+24,24,17,141.17,3,0,v England,Leeds,02/09/2007,ODI # 2618
+35,35,37,94.59,3,0,v England,The Oval,05/09/2007,ODI # 2619
+50,50,72,69.44,4,1,v England,Lord's,08/09/2007,ODI # 2620
+DNB,-,-,-,-,-,v Australia,Bengaluru,29/09/2007,ODI # 2621
+58,58,88,65.9,2,2,v Australia,Kochi,02/10/2007,ODI # 2623
+33,33,37,89.18,4,0,v Australia,Hyderabad (Deccan),05/10/2007,ODI # 2625
+50*,50,35,142.85,5,1,v Australia,Chandigarh,08/10/2007,ODI # 2627
+4,4,7,57.14,1,0,v Australia,Vadodara,11/10/2007,ODI # 2629
+26,26,29,89.65,2,1,v Australia,Nagpur,14/10/2007,ODI # 2631
+5,5,11,45.45,1,0,v Australia,Mumbai,17/10/2007,ODI # 2632
+63,63,77,81.81,8,0,v Pakistan,Guwahati,05/11/2007,ODI # 2643
+4,4,10,40,0,0,v Pakistan,Mohali,08/11/2007,ODI # 2644
+49,49,52,94.23,4,2,v Pakistan,Kanpur,11/11/2007,ODI # 2645
+45*,45,45,100,3,1,v Pakistan,Gwalior,15/11/2007,ODI # 2646
+24,24,32,75,1,0,v Pakistan,Jaipur,18/11/2007,ODI # 2647
+37,37,61,60.65,1,0,v Australia,Brisbane,03/02/2008,ODI # 2670
+88*,88,95,92.63,5,1,v Sri Lanka,Brisbane,05/02/2008,ODI # 2672
+17*,17,54,31.48,0,0,v Australia,Melbourne,10/02/2008,ODI # 2675
+31,31,26,119.23,3,0,v Sri Lanka,Canberra,12/02/2008,ODI # 2676
+37,37,50,74,1,0,v Australia,Adelaide,17/02/2008,ODI # 2680
+50*,50,68,73.52,0,0,v Sri Lanka,Adelaide,19/02/2008,ODI # 2681
+36,36,66,54.54,4,0,v Australia,Sydney,24/02/2008,ODI # 2685
+DNB,-,-,-,-,-,v Sri Lanka,Hobart,26/02/2008,ODI # 2686
+15*,15,12,125,3,0,v Australia,Sydney,02/03/2008,ODI # 2688
+36,36,37,97.29,2,1,v Australia,Brisbane,04/03/2008,ODI # 2689
+24,24,23,104.34,5,0,v Pakistan,Dhaka,10/06/2008,ODI # 2705
+DNB,-,-,-,-,-,v Bangladesh,Dhaka,12/06/2008,ODI # 2706
+64,64,59,108.47,3,2,v Pakistan,Dhaka,14/06/2008,ODI # 2707
+109*,109,96,113.54,6,6,v Hong Kong,Karachi,25/06/2008,ODI # 2716
+26*,26,30,86.66,0,1,v Pakistan,Karachi,26/06/2008,ODI # 2717
+DNB,-,-,-,-,-,v Bangladesh,Karachi,28/06/2008,ODI # 2721
+76,76,96,79.16,4,0,v Pakistan,Karachi,02/07/2008,ODI # 2730
+67,67,62,108.06,5,1,v Sri Lanka,Karachi,03/07/2008,ODI # 2732
+49,49,74,66.21,4,0,v Sri Lanka,Karachi,06/07/2008,ODI # 2735
+6,6,28,21.42,0,0,v Sri Lanka,Dambulla,18/08/2008,ODI # 2742
+39,39,54,72.22,3,0,v Sri Lanka,Dambulla,20/08/2008,ODI # 2745
+76,76,80,95,8,0,v Sri Lanka,Colombo (RPS),24/08/2008,ODI # 2750
+71,71,80,88.75,4,0,v Sri Lanka,Colombo (RPS),27/08/2008,ODI # 2755
+1,1,7,14.28,0,0,v Sri Lanka,Colombo (RPS),29/08/2008,ODI # 2756
+39,39,32,121.87,3,1,v England,Rajkot,14/11/2008,ODI # 2774
+15,15,26,57.69,1,0,v England,Indore,17/11/2008,ODI # 2777
+29*,29,51,56.86,4,0,v England,Kanpur,20/11/2008,ODI # 2778
+9,9,5,180,0,1,v England,Bengaluru,23/11/2008,ODI # 2781
+50,50,61,81.96,5,0,v England,Cuttack,26/11/2008,ODI # 2783
+61*,61,65,93.84,5,0,v Sri Lanka,Dambulla,28/01/2009,ODI # 2806
+23,23,35,65.71,0,0,v Sri Lanka,Colombo (RPS),31/01/2009,ODI # 2810
+35*,35,45,77.77,1,0,v Sri Lanka,Colombo (RPS),03/02/2009,ODI # 2813
+94,94,96,97.91,4,2,v Sri Lanka,Colombo (RPS),05/02/2009,ODI # 2815
+53,53,58,91.37,1,2,v Sri Lanka,Colombo (RPS),08/02/2009,ODI # 2818
+84*,84,89,94.38,6,0,v New Zealand,Napier,03/03/2009,ODI # 2821
+23*,23,19,121.05,2,0,v New Zealand,Wellington,06/03/2009,ODI # 2822
+68,68,58,117.24,5,2,v New Zealand,Christchurch,08/03/2009,ODI # 2823
+DNB,-,-,-,-,-,v New Zealand,Hamilton,11/03/2009,ODI # 2824
+9,9,21,42.85,1,0,v New Zealand,Auckland,14/03/2009,ODI # 2825
+41,41,46,89.13,2,1,v West Indies,Kingston,26/06/2009,ODI # 2852
+95,95,130,73.07,6,2,v West Indies,Kingston,28/06/2009,ODI # 2853
+46*,46,34,135.29,2,1,v West Indies,Gros Islet,03/07/2009,ODI # 2854
+TDNB,-,-,-,-,-,v West Indies,Gros Islet,05/07/2009,ODI # 2855
+35*,35,65,53.84,4,0,v New Zealand,Colombo (RPS),11/09/2009,ODI # 2886
+8,8,18,44.44,0,0,v Sri Lanka,Colombo (RPS),12/09/2009,ODI # 2887
+56,56,62,90.32,3,0,v Sri Lanka,Colombo (RPS),14/09/2009,ODI # 2889
+3,3,9,33.33,0,0,v Pakistan,Centurion,26/09/2009,ODI # 2898
+TDNB,-,-,-,-,-,v Australia,Centurion,28/09/2009,ODI # 2901
+DNB,-,-,-,-,-,v West Indies,Johannesburg,30/09/2009,ODI # 2904
+34,34,46,73.91,4,0,v Australia,Vadodara,25/10/2009,ODI # 2913
+124,124,107,115.88,9,3,v Australia,Nagpur,28/10/2009,ODI # 2915
+71*,71,95,74.73,6,0,v Australia,Delhi,31/10/2009,ODI # 2918
+26,26,46,56.52,2,0,v Australia,Mohali,02/11/2009,ODI # 2919
+6,6,15,40,0,0,v Australia,Hyderabad (Deccan),05/11/2009,ODI # 2923
+24,24,77,31.16,1,0,v Australia,Guwahati,08/11/2009,ODI # 2925
+72,72,53,135.84,7,3,v Sri Lanka,Rajkot,15/12/2009,ODI # 2932
+107,107,111,96.39,8,2,v Sri Lanka,Nagpur,18/12/2009,ODI # 2933
+TDNB,-,-,-,-,-,v Sri Lanka,Delhi,27/12/2009,ODI # 2936
+37,37,70,52.85,3,0,v Sri Lanka,Dhaka,05/01/2010,ODI # 2938
+101*,101,107,94.39,9,0,v Bangladesh,Dhaka,07/01/2010,ODI # 2939
+DNB,-,-,-,-,-,v Sri Lanka,Dhaka,10/01/2010,ODI # 2941
+32,32,35,91.42,3,0,v Bangladesh,Dhaka,11/01/2010,ODI # 2942
+14,14,19,73.68,3,0,v Sri Lanka,Dhaka,13/01/2010,ODI # 2943
+26,26,29,89.65,2,0,v South Africa,Jaipur,21/02/2010,ODI # 2961
+68*,68,35,194.28,7,4,v South Africa,Gwalior,24/02/2010,ODI # 2962
+9,9,7,128.57,0,1,v South Africa,Ahmedabad,27/02/2010,ODI # 2963
+38*,38,45,84.44,3,1,v Bangladesh,Dambulla,16/06/2010,ODI # 2993
+56,56,71,78.87,2,1,v Pakistan,Dambulla,19/06/2010,ODI # 2996
+41,41,53,77.35,6,0,v Sri Lanka,Dambulla,22/06/2010,ODI # 2999
+38,38,50,76,2,1,v Sri Lanka,Dambulla,24/06/2010,ODI # 3001
+2,2,9,22.22,0,0,v New Zealand,Dambulla,10/08/2010,ODI # 3030
+23*,23,38,60.52,2,0,v Sri Lanka,Dambulla,16/08/2010,ODI # 3032
+10,10,16,62.5,2,0,v Sri Lanka,Dambulla,22/08/2010,ODI # 3038
+38,38,75,50.66,3,0,v New Zealand,Dambulla,25/08/2010,ODI # 3039
+67,67,100,67,5,1,v Sri Lanka,Dambulla,28/08/2010,ODI # 3040
+0,0,1,0,0,0,v Australia,Visakhapatnam,20/10/2010,ODI # 3060
+25,25,35,71.42,1,0,v South Africa,Durban,12/01/2011,ODI # 3079
+38,38,61,62.29,1,0,v South Africa,Johannesburg,15/01/2011,ODI # 3080
+5,5,12,41.66,1,0,v South Africa,Cape Town,18/01/2011,ODI # 3082
+2,2,8,25,0,0,v South Africa,Port Elizabeth,21/01/2011,ODI # 3084
+5,5,10,50,1,0,v South Africa,Centurion,23/01/2011,ODI # 3087
+DNB,-,-,-,-,-,v Bangladesh,Dhaka,19/02/2011,ODI # 3100
+31,31,25,124,3,1,v England,Bengaluru,27/02/2011,ODI # 3110
+34,34,50,68,2,0,v Ireland,Bengaluru,06/03/2011,ODI # 3121
+19*,19,40,47.5,2,0,v Netherlands,Delhi,09/03/2011,ODI # 3124
+12*,12,21,57.14,0,0,v South Africa,Nagpur,12/03/2011,ODI # 3128
+22,22,30,73.33,1,0,v West Indies,Chennai,20/03/2011,ODI # 3141
+7,7,8,87.5,1,0,v Australia,Ahmedabad,24/03/2011,ODI # 3143
+25,25,42,59.52,2,0,v Pakistan,Mohali,30/03/2011,ODI # 3147
+91*,91,79,115.18,8,2,v Sri Lanka,Mumbai,02/04/2011,ODI # 3148
+33,33,36,91.66,2,0,v England,Chester-le-Street,03/09/2011,ODI # 3186
+6,6,5,120,1,0,v England,Southampton,06/09/2011,ODI # 3187
+69,69,103,66.99,5,0,v England,The Oval,09/09/2011,ODI # 3189
+78*,78,71,109.85,6,3,v England,Lord's,11/09/2011,ODI # 3191
+50*,50,26,192.3,5,2,v England,Cardiff,16/09/2011,ODI # 3195
+87*,87,70,124.28,10,1,v England,Hyderabad (Deccan),14/10/2011,ODI # 3199
+DNB,-,-,-,-,-,v England,Delhi,17/10/2011,ODI # 3201
+35*,35,31,112.9,3,0,v England,Mohali,20/10/2011,ODI # 3205
+15*,15,18,83.33,1,1,v England,Mumbai,23/10/2011,ODI # 3207
+75*,75,69,108.69,3,4,v England,Kolkata,25/10/2011,ODI # 3210
+29,29,38,76.31,1,0,v Australia,Melbourne,05/02/2012,ODI # 3231
+4,4,5,80,1,0,v Sri Lanka,Perth,08/02/2012,ODI # 3233
+44*,44,58,75.86,0,1,v Australia,Adelaide,12/02/2012,ODI # 3237
+58*,58,69,84.05,3,1,v Sri Lanka,Adelaide,14/02/2012,ODI # 3239
+56,56,84,66.66,2,1,v Australia,Brisbane,19/02/2012,ODI # 3244
+14,14,49,28.57,0,0,v Australia,Sydney,26/02/2012,ODI # 3250
+DNB,-,-,-,-,-,v Sri Lanka,Hobart,28/02/2012,ODI # 3251
+46*,46,26,176.92,6,1,v Sri Lanka,Dhaka,13/03/2012,ODI # 3259
+21*,21,11,190.9,2,0,v Bangladesh,Dhaka,16/03/2012,ODI # 3261
+4*,4,1,400,1,0,v Pakistan,Dhaka,18/03/2012,ODI # 3263
+35,35,29,120.68,3,1,v Sri Lanka,Hambantota,21/07/2012,ODI # 3291
+11,11,16,68.75,2,0,v Sri Lanka,Hambantota,24/07/2012,ODI # 3292
+31,31,49,63.26,1,0,v Sri Lanka,Colombo (RPS),28/07/2012,ODI # 3293
+DNB,-,-,-,-,-,v Sri Lanka,Colombo (RPS),31/07/2012,ODI # 3294
+58,58,38,152.63,8,1,v Sri Lanka,Pallekele,04/08/2012,ODI # 3295
+113*,113,125,90.4,7,3,v Pakistan,Chennai,30/12/2012,ODI # 3314
+54*,54,89,60.67,4,1,v Pakistan,Kolkata,03/01/2013,ODI # 3315
+36,36,55,65.45,1,3,v Pakistan,Delhi,06/01/2013,ODI # 3316
+32,32,25,128,0,4,v England,Rajkot,11/01/2013,ODI # 3318
+72,72,66,109.09,7,2,v England,Kochi,15/01/2013,ODI # 3320
+10*,10,12,83.33,2,0,v England,Ranchi,19/01/2013,ODI # 3322
+19,19,21,90.47,2,0,v England,Mohali,23/01/2013,ODI # 3327
+15,15,23,65.21,2,0,v England,Dharamsala,27/01/2013,ODI # 3329
+27,27,26,103.84,3,0,v South Africa,Cardiff,06/06/2013,ODI # 3363
+DNB,-,-,-,-,-,v West Indies,The Oval,11/06/2013,ODI # 3368
+DNB,-,-,-,-,-,v Pakistan,Birmingham,15/06/2013,ODI # 3372
+DNB,-,-,-,-,-,v Sri Lanka,Cardiff,20/06/2013,ODI # 3376
+0,0,4,0,0,0,v England,Birmingham,23/06/2013,ODI # 3377
+27,27,35,77.14,1,0,v West Indies,Kingston,30/06/2013,ODI # 3380
+45*,45,52,86.53,5,2,v Sri Lanka,Port of Spain,11/07/2013,ODI # 3388
+19,19,22,86.36,2,0,v Australia,Pune,13/10/2013,ODI # 3419
+DNB,-,-,-,-,-,v Australia,Jaipur,16/10/2013,ODI # 3420
+139*,139,121,114.87,12,5,v Australia,Mohali,19/10/2013,ODI # 3421
+DNB,-,-,-,-,-,v Australia,Ranchi,23/10/2013,ODI # 3422
+25*,25,23,108.69,2,0,v Australia,Nagpur,30/10/2013,ODI # 3424
+62,62,38,163.15,7,2,v Australia,Bengaluru,02/11/2013,ODI # 3428
+13*,13,7,185.71,3,0,v West Indies,Kochi,21/11/2013,ODI # 3436
+51*,51,40,127.5,3,4,v West Indies,Visakhapatnam,24/11/2013,ODI # 3437
+23*,23,23,100,3,0,v West Indies,Kanpur,27/11/2013,ODI # 3439
+65,65,71,91.54,8,1,v South Africa,Johannesburg,05/12/2013,ODI # 3442
+19,19,31,61.29,0,0,v South Africa,Durban,08/12/2013,ODI # 3443
+TDNB,-,-,-,-,-,v South Africa,Centurion,11/12/2013,ODI # 3444
+40,40,46,86.95,2,2,v New Zealand,Napier,19/01/2014,ODI # 3456
+56,56,44,127.27,7,1,v New Zealand,Hamilton,22/01/2014,ODI # 3458
+50,50,60,83.33,2,3,v New Zealand,Auckland,25/01/2014,ODI # 3462
+79*,79,73,108.21,6,3,v New Zealand,Hamilton,28/01/2014,ODI # 3465
+47,47,72,65.27,3,0,v New Zealand,Wellington,31/01/2014,ODI # 3467
+52,52,51,101.96,6,0,v England,Cardiff,27/08/2014,ODI # 3517
+DNB,-,-,-,-,-,v England,Nottingham,30/08/2014,ODI # 3520
+DNB,-,-,-,-,-,v England,Birmingham,02/09/2014,ODI # 3523
+29,29,42,69.04,1,1,v England,Leeds,05/09/2014,ODI # 3525
+8,8,21,38.09,0,0,v West Indies,Kochi,08/10/2014,ODI # 3531
+51*,51,40,127.5,5,1,v West Indies,Delhi,11/10/2014,ODI # 3533
+6,6,5,120,0,0,v West Indies,Dharamsala,17/10/2014,ODI # 3535
+19,19,31,61.29,2,0,v Australia,Melbourne,18/01/2015,ODI # 3582
+34,34,61,55.73,1,0,v England,Brisbane,20/01/2015,ODI # 3586
+DNB,-,-,-,-,-,v Australia,Sydney,26/01/2015,ODI # 3592
+17,17,32,53.12,3,0,v England,Perth,30/01/2015,ODI # 3595
+18,18,13,138.46,1,1,v Pakistan,Adelaide,15/02/2015,ODI # 3602
+18,18,11,163.63,3,0,v South Africa,Melbourne,22/02/2015,ODI # 3610
+DNB,-,-,-,-,-,v U.A.E.,Perth,28/02/2015,ODI # 3618
+45*,45,56,80.35,3,1,v West Indies,Perth,06/03/2015,ODI # 3625
+DNB,-,-,-,-,-,v Ireland,Hamilton,10/03/2015,ODI # 3631
+85*,85,76,111.84,8,2,v Zimbabwe,Auckland,14/03/2015,ODI # 3636
+6,6,11,54.54,0,0,v Bangladesh,Melbourne,19/03/2015,ODI # 3641
+65,65,65,100,3,2,v Australia,Sydney,26/03/2015,ODI # 3645
+5,5,7,71.42,0,0,v Bangladesh,Dhaka,18/06/2015,ODI # 3658
+47,47,75,62.66,3,0,v Bangladesh,Dhaka,21/06/2015,ODI # 3660
+69,69,77,89.61,6,1,v Bangladesh,Dhaka,24/06/2015,ODI # 3661
+31,31,30,103.33,1,0,v South Africa,Kanpur,11/10/2015,ODI # 3689
+92*,92,86,106.97,7,4,v South Africa,Indore,14/10/2015,ODI # 3692
+47,47,61,77.04,5,0,v South Africa,Rajkot,18/10/2015,ODI # 3695
+15,15,16,93.75,1,0,v South Africa,Chennai,22/10/2015,ODI # 3698
+27,27,29,93.1,3,0,v South Africa,Mumbai,25/10/2015,ODI # 3700
+18,18,13,138.46,1,1,v Australia,Perth,12/01/2016,ODI # 3723
+11,11,10,110,0,0,v Australia,Brisbane,15/01/2016,ODI # 3724
+23,23,9,255.55,2,2,v Australia,Melbourne,17/01/2016,ODI # 3725
+0,0,3,0,0,0,v Australia,Canberra,20/01/2016,ODI # 3726
+34,34,42,80.95,1,1,v Australia,Sydney,23/01/2016,ODI # 3727
+DNB,-,-,-,-,-,v Zimbabwe,Harare,11/06/2016,ODI # 3742
+DNB,-,-,-,-,-,v Zimbabwe,Harare,13/06/2016,ODI # 3744
+DNB,-,-,-,-,-,v Zimbabwe,Harare,15/06/2016,ODI # 3746
+21,21,24,87.5,1,1,v New Zealand,Dharamsala,16/10/2016,ODI # 3796
+39,39,65,60,3,0,v New Zealand,Delhi,20/10/2016,ODI # 3797
+80,80,91,87.91,6,3,v New Zealand,Mohali,23/10/2016,ODI # 3798
+11,11,31,35.48,0,0,v New Zealand,Ranchi,26/10/2016,ODI # 3799
+41,41,59,69.49,4,1,v New Zealand,Visakhapatnam,29/10/2016,ODI # 3800
+6,6,6,100,1,0,v England,Pune,15/01/2017,ODI # 3819
+134,134,122,109.83,10,6,v England,Cuttack,19/01/2017,ODI # 3821
+25,25,36,69.44,1,1,v England,Kolkata,22/01/2017,ODI # 3824
+DNB,-,-,-,-,-,v Pakistan,Birmingham,04/06/2017,ODI # 3878
+63,63,52,121.15,7,2,v Sri Lanka,The Oval,08/06/2017,ODI # 3882
+DNB,-,-,-,-,-,v South Africa,The Oval,11/06/2017,ODI # 3886
+DNB,-,-,-,-,-,v Bangladesh,Birmingham,15/06/2017,ODI # 3891
+4,4,16,25,0,0,v Pakistan,The Oval,18/06/2017,ODI # 3894
+9*,9,9,100,1,0,v West Indies,Port of Spain,23/06/2017,ODI # 3895
+13*,13,13,100,1,0,v West Indies,Port of Spain,25/06/2017,ODI # 3896
+78*,78,79,98.73,4,2,v West Indies,North Sound,30/06/2017,ODI # 3898
+54,54,114,47.36,1,0,v West Indies,North Sound,02/07/2017,ODI # 3900
+DNB,-,-,-,-,-,v West Indies,Kingston,06/07/2017,ODI # 3902
+DNB,-,-,-,-,-,v Sri Lanka,Dambulla,20/08/2017,ODI # 3905
+45*,45,68,66.17,1,0,v Sri Lanka,Pallekele,24/08/2017,ODI # 3906
+67*,67,86,77.9,4,1,v Sri Lanka,Pallekele,27/08/2017,ODI # 3907
+49*,49,42,116.66,5,1,v Sri Lanka,Colombo (RPS),31/08/2017,ODI # 3908
+1*,1,1,100,0,0,v Sri Lanka,Colombo (RPS),03/09/2017,ODI # 3909
+79,79,88,89.77,4,2,v Australia,Chennai,17/09/2017,ODI # 3910
+5,5,10,50,1,0,v Australia,Kolkata,21/09/2017,ODI # 3912
+3*,3,6,50,0,0,v Australia,Indore,24/09/2017,ODI # 3914
+13,13,10,130,1,1,v Australia,Bengaluru,28/09/2017,ODI # 3917
+DNB,-,-,-,-,-,v Australia,Nagpur,01/10/2017,ODI # 3919
+25,25,42,59.52,2,0,v New Zealand,Mumbai,22/10/2017,ODI # 3928
+18*,18,21,85.71,3,0,v New Zealand,Pune,25/10/2017,ODI # 3931
+25,25,17,147.05,3,0,v New Zealand,Kanpur,29/10/2017,ODI # 3932
+65,65,87,74.71,10,2,v Sri Lanka,Dharamsala,10/12/2017,ODI # 3939
+7,7,5,140,0,1,v Sri Lanka,Mohali,13/12/2017,ODI # 3941
+DNB,-,-,-,-,-,v Sri Lanka,Visakhapatnam,17/12/2017,ODI # 3942
+4*,4,3,133.33,1,0,v South Africa,Durban,01/02/2018,ODI # 3969
+DNB,-,-,-,-,-,v South Africa,Centurion,04/02/2018,ODI # 3970
+10,10,22,45.45,0,0,v South Africa,Cape Town,07/02/2018,ODI # 3971
+42*,42,43,97.67,3,1,v South Africa,Johannesburg,10/02/2018,ODI # 3973
+13,13,17,76.47,1,0,v South Africa,Port Elizabeth,13/02/2018,ODI # 3976
+DNB,-,-,-,-,-,v South Africa,Centurion,16/02/2018,ODI # 3978
+DNB,-,-,-,-,-,v England,Nottingham,12/07/2018,ODI # 4014
+37,37,59,62.71,2,0,v England,Lord's,14/07/2018,ODI # 4016
+42,42,66,63.63,4,0,v England,Leeds,17/07/2018,ODI # 4018
+0,0,3,0,0,0,v Hong Kong,Dubai (DSC),18/09/2018,ODI # 4039
+DNB,-,-,-,-,-,v Pakistan,Dubai (DSC),19/09/2018,ODI # 4040
+33,33,37,89.18,3,0,v Bangladesh,Dubai (DSC),21/09/2018,ODI # 4042
+DNB,-,-,-,-,-,v Pakistan,Dubai (DSC),23/09/2018,ODI # 4044
+8,8,17,47.05,0,0,v Afghanistan,Dubai (DSC),25/09/2018,ODI # 4046
+36,36,67,53.73,3,0,v Bangladesh,Dubai (DSC),28/09/2018,ODI # 4048
+DNB,-,-,-,-,-,v West Indies,Guwahati,21/10/2018,ODI # 4056
+20,20,25,80,0,1,v West Indies,Visakhapatnam,24/10/2018,ODI # 4059
+7,7,11,63.63,0,0,v West Indies,Pune,27/10/2018,ODI # 4062
+23,23,15,153.33,2,0,v West Indies,Mumbai (BS),29/10/2018,ODI # 4063
+DNB,-,-,-,-,-,v West Indies,Thiruvananthapuram,01/11/2018,ODI # 4064
+51,51,96,53.12,3,1,v Australia,Sydney,12/01/2019,ODI # 4077
+55*,55,54,101.85,0,2,v Australia,Adelaide,15/01/2019,ODI # 4078
+87*,87,114,76.31,6,0,v Australia,Melbourne,18/01/2019,ODI # 4079
+DNB,-,-,-,-,-,v New Zealand,Napier,23/01/2019,ODI # 4082
+48*,48,33,145.45,5,1,v New Zealand,Mount Maunganui,26/01/2019,ODI # 4085
+1,1,6,16.66,0,0,v New Zealand,Wellington,03/02/2019,ODI # 4092
+59*,59,72,81.94,6,1,v Australia,Hyderabad (Deccan),02/03/2019,ODI # 4102
+0,0,1,0,0,0,v Australia,Nagpur,05/03/2019,ODI # 4106
+26,26,42,61.9,2,1,v Australia,Ranchi,08/03/2019,ODI # 4109
+34,34,46,73.91,2,0,v South Africa,Southampton,05/06/2019,ODI # 4150
+27,27,14,192.85,3,1,v Australia,The Oval,09/06/2019,ODI # 4155
+1,1,2,50,0,0,v Pakistan,Manchester,16/06/2019,ODI # 4161
+28,28,52,53.84,3,0,v Afghanistan,Southampton,22/06/2019,ODI # 4169
+56*,56,61,91.8,3,2,v West Indies,Manchester,27/06/2019,ODI # 4175
+42*,42,31,135.48,4,1,v England,Birmingham,30/06/2019,ODI # 4179
+35,35,33,106.06,4,0,v Bangladesh,Birmingham,02/07/2019,ODI # 4182
+DNB,-,-,-,-,-,v Sri Lanka,Leeds,06/07/2019,ODI # 4187
+50,50,72,69.44,1,1,v New Zealand,Manchester,09/07/2019,ODI # 4190
