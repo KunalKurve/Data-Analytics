@@ -1,0 +1,17 @@
+Normal Distribution
+and Empirical Rule - 
+
+Probability of the Values in a Normal Distribution - 68, 95, 99.7 Rule
+
+Z-Score = (individual data value - population mean) / population standard deviation
+
+Z-Score at Mean = 0
+Z-Score at Mean + 1 S.D. = +1
+Z-Score at Mean - 1 S.D. = -1
+Z-Score at Mean + 2 S.D. = +2
+Z-Score at Mean - 2 S.D. = -2
+
+
+Correlation - qualitative assessment
+
+Covariance - quantifies how change in one variable relates to changes in another.
