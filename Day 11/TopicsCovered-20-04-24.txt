@@ -1,0 +1,9 @@
+Different Classification 
+
+Regression - 
+
+Linear -> Target variable is Numeric, 
+Multiple Linear Regression -> also Numeric 
+Logistic -> Target variable is Category/Class
+
+
