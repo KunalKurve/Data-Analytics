@@ -1,0 +1,7 @@
+Use pandas, numpy and matplotlib,seaborn
+1. Use movies11.csv,movie12.csv,movie13.csv and rating11.csv file and solve following
+2. find all masala movie - (action ,romance,comedy,thriller)
+3. plot a pie chart to represent genre and frequency of movie count
+4. find average rating for each movie then merge 2 frames, display movieid,name,rating
+5. draw pie chart for each genre and average rating
+6. draw bar graph for each rating and number of movies
