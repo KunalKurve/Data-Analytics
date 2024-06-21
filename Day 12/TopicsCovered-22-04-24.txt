@@ -1,0 +1,12 @@
+Sampling: 
+Probability Sampling
+Dealing with Unbalanced Data
+Solutions - Oversampling, Undersampling, SMOTE(Synthetic Minority Oversampling Technique)
+
+Central Limit Theorem
+Hypothesis Testing - Null = neutral statement (No change as assumption) and Alternate Hypothesis
+
+
+Chi Square Test : used to analyze relationships between categorical data 
+
+Entropy
